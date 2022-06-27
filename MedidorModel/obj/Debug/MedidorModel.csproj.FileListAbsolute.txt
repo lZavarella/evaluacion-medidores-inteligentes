@@ -1,0 +1,12 @@
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\bin\Debug\MedidorModel.dll.config
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\bin\Debug\MedidorModel.dll
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\bin\Debug\MedidorModel.pdb
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\bin\Debug\EntityFramework.dll
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\bin\Debug\EntityFramework.xml
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\obj\Debug\MedidorModel.csproj.AssemblyReference.cache
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\obj\Debug\MedidorModel.csproj.CoreCompileInputs.cache
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\obj\Debug\MedidorModel.csproj.CopyComplete
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\obj\Debug\MedidorModel.dll
+C:\Users\viejo\Source\Repos\MedidoresInteligentes\MedidorModel\obj\Debug\MedidorModel.pdb
